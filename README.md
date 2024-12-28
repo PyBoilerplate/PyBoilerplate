@@ -87,23 +87,23 @@ other standard features. PyBoilerplate gives you a solid foundation with all the
 
 ### Landing Page
 
-![Landing Page](https://py-boilerplate.s3.eu-west-3.amazonaws.com/ui_design_pages_x1.png)
+![Landing Page](https://py-boilerplate.s3.eu-west-3.amazonaws.com/Assets/ui_design_pages_x1.png)
 
 ### Authentication Pages
 
-![Authentication](https://py-boilerplate.s3.eu-west-3.amazonaws.com/authentication_x1.png)
+![Authentication](https://py-boilerplate.s3.eu-west-3.amazonaws.com/Assets/authentication_x1.png)
 
 ### Email Templates
 
-![Email Templates](https://py-boilerplate.s3.eu-west-3.amazonaws.com/emails_temapltes_x1.png)
+![Email Templates](https://py-boilerplate.s3.eu-west-3.amazonaws.com/Assets/emails_temapltes_x1.webp)
 
 ### Payment Integration
 
-![Payments](https://py-boilerplate.s3.eu-west-3.amazonaws.com/pricing_plan_x1.png)
+![Payments](https://py-boilerplate.s3.eu-west-3.amazonaws.com/Assets/pricing_plan_x1.webp)
 
 ### Cookie Banner Display
 
-![Cookie Banner](https://py-boilerplate.s3.eu-west-3.amazonaws.com/cookie_banner_display_x1.png)
+![Cookie Banner](https://py-boilerplate.s3.eu-west-3.amazonaws.com/Assets/cookie_banner_display_x1.webp)
 
 </div>
 
